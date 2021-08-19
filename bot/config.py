@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1969120034:AAFopCo69DHPWWZi_cYgmm72JWznW73_9i8"
+    APP_ID = "7229075"
+    API_HASH = "08eb19896b64ad3ebdede5588ec184b2"
+    DATABASE_URL = "postgres://ovkhtkndrtalna:30346414a64d31fe62cea82143e752e8c53bf6e3967c5be1e7b2f65e3bd85bd5@ec2-34-194-14-176.compute-1.amazonaws.com:5432/d3vv5dnjanc695"
+    SUDO_USERS = "645822868 1483328840" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "543258534385-ca0p23ed1917rj50khicg3ljgnkqgmgf.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "1o6zaNrptyiblKP7rmg9vxgQ"
+    SUPPORT_CHAT_LINK = "https://t.me/pdiskmoviezx"
 
 
 class BotCommands:
